@@ -1,0 +1,1 @@
+Hacky non-production ready test ideas for PlantSimEngine that were not completed/polished/prioritised (automated tests from random graphs, dependency graph visualisation). Backed up here just in case.
